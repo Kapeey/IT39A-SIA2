@@ -4,7 +4,7 @@ Enhancing Student Employability in Collaboration with the
 Industry: Case Study of a Partnership with Amazon Web
 Services Academy
 
-In this article or case study, we will provide an overview of the redesign of an undergraduate course in cloud computing in collaboration with the Amazon Web Services (AWS) Academy. For the senior capstone project, the goal was to increase student learning using real world, industry specific labs, specifically surrounding the Internet of Things.
+-In this article or case study, we will provide an overview of the redesign of an undergraduate course in cloud computing in collaboration with the Amazon Web Services (AWS) Academy. For the senior capstone project, the goal was to increase student learning using real world, industry specific labs, specifically surrounding the Internet of Things.
 
 Many students and families worldwide are worried about ever-increasing tuition fees, especially in Britain, the United States, and elsewhere. In the UK, for instance, the fees have tripled since then, with home students costing a minimum of £9,000 a year, and international students typically much more. As a result of this, students and parents want a greater quality of education and so improve learning and future job opportunities to be worth the price. In 2015 David Cameron the prime minister and Nick Clegg the right honourable cat deputy prime minister led the CP and SDP that had ridden into the sunset claiming to have tripled tuition in the UK.
 
@@ -19,7 +19,7 @@ One of the most important things for an effective learning experience is an in
 
 Queen Mary University of London (QMUL) has taken alignment as the basis for its curriculum design; alignment to its vision and mission, to four themes (people, education, public engagement and sustainability) around which the university has focused on during its strategy as well as alignment with the curriculum itself. Using the AWS Academy LMS, our collaboration with AWS Academy develops skills for our students while giving them experience to better their careers. The curriculum covers theory in the area of distributed computing followed by lab work on virtualization, scalability, big data and monitoring systems which is worth 25% of the exam marks. The study also includes employability-focused teaching, exploring career pathways in cloud computing and skills to acquire.
 
-Figure 1
+-Figure 1
 outlines the link between learners, HEIs and employers with regard to employability skills. Although there are many career paths available in cloud computing, this study focuses on nine popular such careers as shown in Table 1. The following table describes the career pathways and the training and skills students will need to be successful in each path.
 
 -Table 1
@@ -40,7 +40,7 @@ DevOps Engineer: SOA, web services, object-oriented programming, average salar
 
 It involves placing industry cloud technology into the curriculum for students to enhance hands-on learning while exploring how industrial attachment industrial attachments can also benefit cloud computing lecturers acquire AWEC certification professional courses which serve as a pillar for the future. To incorporate AWS into the cloud computing module, the lecturer signed in to AWS Academy’s Cloud Foundations program. After 12 weeks of study on the subjects, the lecturer took the AWS Certified Cloud Practitioner (ACCP) practice exam, using a free AWS voucher. AWS also asked the lecturers to attend a short online workshop that directed them on how to update and move through the needed resources before taking the certification exam.
 
-Goals:
+-Goals:
 The only valid justification for tuition rises is greater value education and increased employment prospects.
 
 It is intended to give students both the theoretical background and practical experiences that will prepare them for careers in cloud computing.
@@ -54,7 +54,7 @@ Grounding the study in both theory and practice allows students to learn the c
 
 
 
-Fiindings: 
+-Fiindings: 
 
 This report underscores the need to update the curriculum every year to keep up with the rapidly growing technologies and to make sure that graduates will be equipped to seek jobs in the workforce. The partnership with AWS Academy, the world’s largest cloud provider, gave students access to the latest in cloud computing technology, enhancing the curriculum. As a result of working together, students performed better and felt more comfortable using cloud technology, the justification for the increase in college tuition.
 
